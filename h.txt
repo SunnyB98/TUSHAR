@@ -6,3 +6,8 @@ $ git commit -m "Third"
  2 files changed, 0 insertions(+), 0 deletions(-)
  create mode 100644 New Text Document.txt
  create mode 100644 Third.java.txt
+
+
+$ git push origin main
+Logon failed, use ctrl+c to cancel basic credential prompt.
+Username for 'https://github.com':
